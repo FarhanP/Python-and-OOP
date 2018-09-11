@@ -1,3 +1,4 @@
+# A class is a datatype that holds both data and function
 # class student:
 # 	def __init__(self,name,age,address):
 # 		self.name=name
